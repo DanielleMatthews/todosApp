@@ -1,0 +1,9 @@
+.completed{
+  text-decoration: line-through;
+}
+.not-complete{
+    background: linear-gradient(120deg, #f3cce6 0%, #f7aeef 100%);
+    background-repeat: no-repeat;
+    background-size: 25% 100%;
+    background-position: 0 60%;
+}
