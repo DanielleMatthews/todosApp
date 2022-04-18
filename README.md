@@ -1,3 +1,6 @@
+# List of To Dos Application 
+Using a backend API, which can be found here https://github.com/DanielleMatthews/todosAPI.git , to create an application with React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
